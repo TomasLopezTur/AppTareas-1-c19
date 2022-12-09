@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Armar aplicacion de tareas",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Break",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Calculadora",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "for",
+        "estado": "terminada"
+    }
+]
